@@ -1,5 +1,5 @@
-# TicTacToeGame-FinalJavaProject
-TicTacToeGame-FinalJavaProject
+# Game-FinalJavaProject
+Game-FinalJavaProject
 
 1. Ask the user whether he/she want to go first or second.
 
